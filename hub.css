@@ -1,0 +1,12 @@
+body{
+    color:antiquewhite;
+  background-image: url(matrix-code-rain-thumb.jpg);
+  font-family:monospace ;
+  text-align: center;
+}
+a{
+    color:antiquewhite;
+}
+a:hover{
+color: gray
+}
